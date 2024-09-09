@@ -8,4 +8,6 @@
 Test results on character llm [Link](https://github.com/choosewhatulike/trainable-agents?tab=readme-ov-file)
 
 Data needed to make an AI influencer -As per my calculations it turned out to be 1.5 to 1.6 million tokens
-Pricing per token --  $ per token
+Pricing per token --  0.0000033$ per token
+
+Notebook of fine tuned llm 
