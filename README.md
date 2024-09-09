@@ -2,7 +2,7 @@
 
 # This repo is about creating a trainable LLM for Role-Playing characters with less data 
 
-## Pricing per token on L4 GPU 
+## Pricing per token on A100 GPU 
 
 
 Test results on character llm [Link](https://github.com/choosewhatulike/trainable-agents?tab=readme-ov-file)
