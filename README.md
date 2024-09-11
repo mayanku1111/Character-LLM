@@ -9,3 +9,6 @@ Test results on character llm [Link](https://github.com/choosewhatulike/trainabl
 ## Pricing per token --  0.0000033$ per token
 
 Notebook of fine tuned llm which acts like peppa pig [Link](Character_AI.ipynb)
+
+## After fine tuning on llama2
+## Pricing per token on L4 GPU for elon musk character came out to be around --$0.00005725 per token
