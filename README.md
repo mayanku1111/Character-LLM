@@ -12,3 +12,5 @@ Notebook of fine tuned llm which acts like peppa pig [Link](Character_AI.ipynb)
 
 ## After fine tuning on llama2
 ## Pricing per token on L4 GPU for elon musk character came out to be around --$0.00005725 per token
+
+![PHOTO-2024-09-14-15-27-14](https://github.com/user-attachments/assets/f24dddd4-5eca-4d63-bf99-dbb818938df4)
